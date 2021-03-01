@@ -5,5 +5,7 @@ for i in range(5):
 		print(i)
 	
 for j in range(10):
-	print(j)
+	if j%2!=0:
+		print(j)
+	
 	
